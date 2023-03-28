@@ -9,8 +9,8 @@ function App() {
     <HashRouter>
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/new" element={<ProductNew />} />
+          <Route path="/react_redux_app/" element={<Home />} />
+          <Route path="/react_redux_app/new" element={<ProductNew />} />
         </Routes>
     </HashRouter>
   );

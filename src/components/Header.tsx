@@ -5,8 +5,8 @@ function Header() {
   return (
     <header>
       <nav>
-        <Link to="/">Home</Link>
-        <Link to="/new">New product</Link>
+        <Link to="/react_redux_app/">Home</Link>
+        <Link to="/react_redux_app/new">New product</Link>
       </nav>
     </header>
   );
